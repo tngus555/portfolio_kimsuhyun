@@ -431,13 +431,16 @@ nav .gnb-btn a:hover {
 
 .badge-1 {
   background-color: #0acf83;
-} /* 리디자인 */
+}
 .badge-2 {
   background-color: #ff7f00;
-} /* 소개 */
+}
 .badge-3 {
   background-color: #31a8ff;
-} /* 브랜드 디자인 */
+}
+.badge-4 {
+  background-color: #f871c0;
+}
 
 .description {
   font-size: 20px;

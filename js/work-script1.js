@@ -141,7 +141,7 @@ const contents = [
 const sliderData = [
   {
     title: "1. Steinway",
-    badges: ["리디자인", "웹 디자인"],
+    badges: ["리디자인", "웹 디자인", "테블릿 디자인", "모바일 디자인"],
     description:
       "170년 이상 이어온 장인정신과 역사적 가치가 담긴 스타인웨이.\n조금 더 깔끔한 디자인으로 웹 리디자인을 하였습니다.",
     meta: "팀 프로젝트 작업 | <strong>디자인 100%</strong>",
@@ -165,7 +165,7 @@ const sliderData = [
   },
   {
     title: "3. Baskin Robbins 31",
-    badges: ["리디자인", "웹 디자인"],
+    badges: ["리디자인", "웹 디자인", "테블릿 디자인", "모바일 디자인"],
     description:
       "귀여운 일러스트와 상큼한 컬러감의 배스킨라빈스 리디자인 프로젝트입니다.",
     meta: "개인 작업 | <strong>디자인 100%</strong>",
@@ -187,7 +187,18 @@ const sliderData = [
     processImage: "./img/pawdiary-process.png",
   },
   {
-    title: "5. Portfolio",
+    title: "5. Innisfree",
+    badges: ["리디자인", "웹 디자인"],
+    description:
+      "Innisfree 리디자인 프로젝트입니다.",
+    meta: "개인 작업 | <strong>디자인 100%</strong>",
+    tools: ["icon-figma.png"],
+    image: "./img/portfolio-img.png",
+    designUrl: "https://www.figma.com/proto/r2wA1sp1j6UTT91Oq63ImY/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EA%B9%80%EC%88%98%ED%98%84?page-id=0%3A1&node-id=1-2&p=f&viewport=502%2C417%2C0.49&t=HYVujetwVsqQJylW-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2",
+    processImage: "./img/portfolio-uiux-designer.png",
+  },
+  {
+    title: "6. Portfolio",
     badges: ["포트폴리오"],
     description:
       "UI/UX 디자인 포트폴리오 프로세스입니다.",
@@ -196,16 +207,6 @@ const sliderData = [
     image: "./img/portfolio-img.png",
     designUrl: "https://tngus555.github.io/portfolio/",
     processImage: "./img/portfolio-uiux-designer.png",
-  },
-  {
-    title: "6. FASHION DESIGN",
-    badges: ["패션 디자인"],
-    description: "패션디자인 프로젝트입니다.",
-    meta: "개인 작업 | <strong>디자인 100%</strong>",
-    tools: ["icon-photoshop.png", "icon-illustrator.png"],
-    image: "./img/Samsung-Galaxy Tab.png",
-    designUrl: "https://example.com/branding",
-    processImage: "./img/branding-process.png",
   },
 ];
 
