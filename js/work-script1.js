@@ -200,7 +200,7 @@ const sliderData = [
   {
     title: "6. FASHION DESIGN",
     badges: ["패션 디자인"],
-    description: "패션 디자인 프로젝트입니다.",
+    description: "패션디자인 프로젝트입니다.",
     meta: "개인 작업 | <strong>디자인 100%</strong>",
     tools: ["icon-photoshop.png", "icon-illustrator.png"],
     image: "./img/Samsung-Galaxy Tab.png",
