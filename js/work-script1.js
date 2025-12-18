@@ -145,11 +145,11 @@ const sliderData = [
     description:
       "170년 이상 이어온 장인정신과 역사적 가치가 담긴 스타인웨이.\n조금 더 깔끔한 디자인으로 웹 리디자인을 하였습니다.",
     meta: "팀 프로젝트 작업 | <strong>디자인 100%</strong>",
-    tools: ["icon-photoshop.png", "icon-illustrator.png", "icon-figma.png"],
+    tools: ["icon-photoshop.png", "icon-figma.png"],
     image: "./img/STEINWAY-img.png",
     designUrl:
       "https://www.figma.com/proto/aVQ8y63tvFasKHyTu8TV1a/steinway-%EB%A6%AC%EB%94%94%EC%9E%90%EC%9D%B8-%EA%B9%80%EC%88%98%ED%98%84?page-id=178%3A3605&node-id=178-4871&p=f&viewport=-66%2C187%2C0.06&t=kBo2sRRXSOWR0yKg-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=178%3A5091",
-    processImage: "./img/STEINWAY-process.png",
+    processImage: "./img/steinway-process.png",
   },
   {
     title: "2. 상식팡",
@@ -167,9 +167,9 @@ const sliderData = [
     title: "3. Baskin Robbins 31",
     badges: ["리디자인", "웹 디자인", "테블릿 디자인", "모바일 디자인"],
     description:
-      "귀여운 일러스트와 상큼한 컬러감의 배스킨라빈스 리디자인 프로젝트입니다.",
+      "귀여운 일러스트와 상큼한 컬러감으로 브랜드의 아이덴티티는\n유지하며, 개선한 베스킨라빈스 31 리디자인 프로젝트입니다.",
     meta: "개인 작업 | <strong>디자인 100%</strong>",
-    tools: ["icon-photoshop.png", "icon-figma.png"],
+    tools: ["icon-illustrator.png", "icon-figma.png"],
     image: "./img/bnr-br-main-img.png",
     designUrl:
       "https://www.figma.com/proto/DGCGLrCjLxJEkj1lMePruP/%EB%B2%A0%EC%8A%A4%ED%82%A8%EB%9D%BC%EB%B9%88%EC%8A%A4-%EB%A6%AC%EB%94%94%EC%9E%90%EC%9D%B8-%EA%B9%80%EC%88%98%ED%98%84?page-id=0%3A1&node-id=1-28&viewport=-1337%2C-4232%2C0.68&t=TN0blo5tHj5joOx1-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A28&show-proto-sidebar=1",
@@ -190,7 +190,7 @@ const sliderData = [
     title: "5. Innisfree",
     badges: ["리디자인", "웹 디자인"],
     description:
-      "Innisfree 리디자인 프로젝트입니다.",
+      "Innisfree\n리디자인 프로젝트입니다.",
     meta: "개인 작업 | <strong>디자인 100%</strong>",
     tools: ["icon-figma.png"],
     image: "./img/innisfree-img.png",
@@ -201,7 +201,7 @@ const sliderData = [
     title: "6. Portfolio",
     badges: ["포트폴리오"],
     description:
-      "UI/UX 디자인 포트폴리오 프로세스입니다.",
+      "UI/UX 디자인\n포트폴리오 프로세스입니다.",
     meta: "개인 작업 | <strong>디자인 100%</strong>",
     tools: ["icon-photoshop.png", "icon-illustrator.png", "icon-figma.png"],
     image: "./img/portfolio-img.png",
