@@ -190,7 +190,7 @@ const sliderData = [
     title: "5. Innisfree",
     badges: ["리디자인", "웹 디자인"],
     description:
-      "Innisfree\n리디자인 프로젝트입니다.",
+      "Innisfree 리디자인 \n리디자인 프로젝트입니다. 이거 수정해야함",
     meta: "개인 작업 | <strong>디자인 100%</strong>",
     tools: ["icon-figma.png"],
     image: "./img/innisfree-img.png",
