@@ -193,7 +193,7 @@ const sliderData = [
       "Innisfree 리디자인 프로젝트입니다.",
     meta: "개인 작업 | <strong>디자인 100%</strong>",
     tools: ["icon-figma.png"],
-    image: "./img/portfolio-img.png",
+    image: "./img/innisfree-img.png",
     designUrl: "https://www.figma.com/proto/r2wA1sp1j6UTT91Oq63ImY/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EA%B9%80%EC%88%98%ED%98%84?page-id=0%3A1&node-id=1-2&p=f&viewport=502%2C417%2C0.49&t=HYVujetwVsqQJylW-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2",
     processImage: "./img/portfolio-uiux-designer.png",
   },
