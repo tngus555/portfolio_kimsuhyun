@@ -23,7 +23,7 @@ const contents = [
     title: "BURGERKING",
     tag: "#Graphic",
     description:
-      "화끈한 멕시코의 매운 맛을 느낄 수 있는 텍사스 칠리 와퍼 베너입니다.",
+      "화끈한 멕시코의 매운 맛을 느낄 수 있는\n텍사스 칠리 와퍼 베너입니다.",
     period: "3 Hours",
     tools: ["Ai", "Ps"],
     images: {
@@ -36,7 +36,7 @@ const contents = [
     title: "PETHROOM",
     tag: "#Graphic",
     description:
-      "고양이를 가족처럼 생각하는 마음을 담아,\n우리 아이에게도 안전한 Pethroom 모래를 소개하는 이벤트 배너입니다.",
+      "고양이를 가족처럼 생각하는 마음을 담아,\n우리 아이에게도 안전한 Pethroom 모래를 소개하는\n이벤트 배너입니다.",
     period: "3 Hours",
     tools: ["Ai", "Ps"],
     images: {
@@ -49,7 +49,7 @@ const contents = [
     title: "서울강남치과",
     tag: "#Graphic",
     description:
-      "누런 치아를 환한 화이트 치아로 변화시켜주는 '화이트 스마일 프로젝트' 이벤트 배너입니다.\n혜택 정보를 강조하고, 간편 상담을 자연스럽게 유도할 수 있도록 디자인했습니다.",
+      "누런 치아를 환한 화이트 치아로 변화시켜주는\n'화이트 스마일 프로젝트' 이벤트 배너입니다.\n혜택 정보를 강조하고,\n간편 상담을 자연스럽게 유도할 수 있도록 디자인했습니다.",
     period: "3 Hours",
     tools: ["Ps"],
     images: {
@@ -62,7 +62,7 @@ const contents = [
     title: "KOREAN AIR",
     tag: "#Graphic",
     description:
-      "얼리버드 고객에게 다양한 혜택을 제공하는 항공권 이벤트 배너입니다.\n티켓 디자인을 활용해 여행을 떠나고 싶은 설렘을 담았습니다.",
+      "얼리버드 고객에게 다양한 혜택을 제공하는\n항공권 이벤트 배너입니다.\n티켓 디자인을 활용해 여행을 떠나고 싶은 설렘을 담았습니다.",
     period: "3 Hours",
     tools: ["Ai", "Ps"],
     images: {
@@ -75,7 +75,7 @@ const contents = [
     title: "RNU UP",
     tag: "#Graphic",
     description:
-      "Running Crew 모집을 위한 배너 디자인입니다.\n푸른 잔디와 역동적인 러닝 모델을 통해 활기차고 건강한 이미지를 강조했습니다.",
+      "Running Crew 모집을 위한 배너 디자인입니다.\n푸른 잔디와 역동적인 러닝 모델을 통해 활기차고\n건강한 이미지를 강조했습니다.",
     period: "3 Hours",
     tools: ["Ps"],
     images: {
@@ -88,7 +88,7 @@ const contents = [
     title: "SKULLPIG",
     tag: "#Graphic",
     description:
-      "BLACK FRIDAY를 맞아, 강렬한 색감을 활용하여 작업한 스컬피그 이벤트 배너 디자인입니다.",
+      "BLACK FRIDAY를 맞아,\n강렬한 색감을 활용하여 작업한 스컬피그 이벤트 배너 디자인입니다.",
     period: "3 Hours",
     tools: ["Ai", "Ps"],
     images: {
@@ -101,7 +101,7 @@ const contents = [
     title: "OFD & STARBUCKS Ver.1",
     tag: "#Graphic",
     description:
-      "콜라보한 배너 디자인으로 빈티지한 감성을 함께 표현한 디자인입니다.",
+      "콜라보한 배너 디자인입니다.\n브랜드별 아이덴티티가 담긴 컬러와 빈티지한 감성을\n함께 표현한 디자인입니다.",
     period: "3 Hours",
     tools: ["Ai", "Ps"],
     images: {
@@ -113,7 +113,7 @@ const contents = [
   {
     title: "OFD & STARBUCKS Ver.2",
     tag: "#Graphic",
-    description: "콜라보한 배너 디자인으로 여름의 청량함과 빈티지한 감성을 함께 표현한 디자인입니다.",
+    description: "콜라보한 배너 디자인으로 여름의 청량함과\n빈티지한 감성을 함께 표현한 디자인입니다.",
     period: "3 Hours",
     tools: ["Ai", "Ps"],
     images: {
@@ -195,7 +195,7 @@ const sliderData = [
     tools: ["icon-figma.png"],
     image: "./img/innisfree-img.png",
     designUrl: "https://www.figma.com/proto/r2wA1sp1j6UTT91Oq63ImY/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EA%B9%80%EC%88%98%ED%98%84?page-id=0%3A1&node-id=1-2&p=f&viewport=502%2C417%2C0.49&t=HYVujetwVsqQJylW-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2",
-    processImage: "./img/portfolio-uiux-designer.png",
+    processImage: "./img/innisfree-process.png",
   },
   {
     title: "6. Portfolio",
