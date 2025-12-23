@@ -215,7 +215,7 @@ const landingPageDetailImages = [
   "./img/Lending-Page-EunyoungTteokbokki.png",
   "./img/lending-page-kuoca.png",
   "./img/lending-page-BNR17.png",
-  "./img/landing-detail-4.jpg",
+  "./img/lending-page-movie.png",
   "./img/landing-detail-5.jpg",
 ];
 
