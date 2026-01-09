@@ -212,11 +212,11 @@ const sliderData = [
 
 // 4. Landing Page Detail Image Data (각 project-card의 detail 이미지 경로)
 const landingPageDetailImages = [
-  "./img/Lending-Page-EunyoungTteokbokki.png",
-  "./img/lending-page-kuoca.png",
-  "./img/lending-page-BNR17.png",
-  "./img/lending-page-movie.png",
-  "./img/landing-detail-5.jpg",
+  "./img/Landing-Page-EunyoungTteokbokki.png",
+  "./img/landing-page-kuoca.png",
+  "./img/landing-page-BNR17.png",
+  "./img/landing-page-movie.png",
+  "./img/landing-page-marshall.png",
 ];
 
 // 5. Landing Page Image Detail Overlay Functions
