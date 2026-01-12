@@ -123,7 +123,7 @@ const contents = [
     },
   },
   {
-    title: "BASKIN ROBBINS",
+    title: "BASKIN ROBBINS 31",
     tag: "#Graphic",
     description:
       "많은 사람들의 최애였던 '엄마는 외계인'에 한층 더 진한 초콜릿 풍미를 더해, 새로운 느낌으로 재해석했습니다.",
