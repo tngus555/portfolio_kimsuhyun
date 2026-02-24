@@ -304,10 +304,7 @@ nav .gnb-btn a:hover {
 .name-ko {
   font-weight: 700;
   font-size: 30px;
-  /* margin: 5px 0 20px; */
   margin-top: 5px;
-  padding-bottom: 10px;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 .name-en {
@@ -319,7 +316,7 @@ nav .gnb-btn a:hover {
 }
 .detail-list p {
   margin-top: 10px;
-  font-weight: 500;
+  font-weight: 400;
 }
 .detail-list strong {
   font-weight: 600;
@@ -346,8 +343,8 @@ nav .gnb-btn a:hover {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, auto);
-  gap: 50px;
-  margin: 160px 0;
+  gap: 60px;
+  margin: 170px 0;
 }
 .content-sec h2 {
   width: 366px;
@@ -375,7 +372,7 @@ section .item .date {
 }
 section .item .detail {
   font-weight: 500;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .skill-icons {
