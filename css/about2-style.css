@@ -311,7 +311,7 @@ nav .gnb-btn a:hover {
 }
 
 .name-en {
-  font-size: 18px;
+  font-size: 16px;
 }
 .detail-list {
   margin-top: 40px;
@@ -366,10 +366,10 @@ section {
   width: 100%;
 }
 section .item {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 section .item .date {
-  font-size: 16px;
+  font-size: 14px;
   color: rgba(26, 26, 26, 0.8);
   margin: 0;
 }
