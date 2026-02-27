@@ -411,8 +411,8 @@ nav .gnb-btn a:hover {
 }
 /* 3. 우측 상세 정보 스타일 */
 .project-title {
-  font-size: 70px;
-  font-weight: 700;
+  font-size: 65px;
+  font-weight: 600;
 }
 
 .category-badges {

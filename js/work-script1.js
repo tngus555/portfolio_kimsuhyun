@@ -152,7 +152,41 @@ const sliderData = [
     processImage: "./img/steinway-process.png",
   },
   {
-    title: "2. 상식팡",
+    title: "2. Baskin Robbins 31",
+    badges: ["리디자인", "웹 디자인", "테블릿 디자인", "모바일 디자인"],
+    description:
+    "귀여운 일러스트와 상큼한 컬러감으로 브랜드의 아이덴티티는\n유지하며, 개선한 베스킨라빈스 31 리디자인 프로젝트입니다.",
+    meta: "개인 작업 | <strong>디자인 100%</strong>",
+    tools: ["icon-illustrator.png", "icon-figma.png"],
+    image: "./img/bnr-br-main-img.png",
+    designUrl:
+    "https://www.figma.com/proto/DGCGLrCjLxJEkj1lMePruP/%EB%B2%A0%EC%8A%A4%ED%82%A8%EB%9D%BC%EB%B9%88%EC%8A%A4-%EB%A6%AC%EB%94%94%EC%9E%90%EC%9D%B8-%EA%B9%80%EC%88%98%ED%98%84?page-id=0%3A1&node-id=1-28&viewport=-1337%2C-4232%2C0.68&t=TN0blo5tHj5joOx1-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A28&show-proto-sidebar=1",
+    processImage: "./img/br31-process.png",
+  },
+  {
+    title: "3. Innisfree",
+    badges: ["리디자인", "웹 디자인"],
+    description:
+    "Innisfree 리디자인 \n리디자인 프로젝트입니다. 이거 수정해야함",
+    meta: "개인 작업 | <strong>디자인 100%</strong>",
+    tools: ["icon-figma.png"],
+    image: "./img/innisfree-img.png",
+    designUrl: "https://www.figma.com/proto/r2wA1sp1j6UTT91Oq63ImY/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EA%B9%80%EC%88%98%ED%98%84?page-id=0%3A1&node-id=1-2&p=f&viewport=502%2C417%2C0.49&t=HYVujetwVsqQJylW-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2",
+    processImage: "./img/innisfree-process.png",
+  },
+  {
+    title: "4. PawDiary",
+    badges: ["앱 디자인"],
+    description:
+    "모든 반려동물의 삶의 질을 극대화하고, 보호자에게는\n'가장 신뢰받는 동행 파트너'가 되길 바라는 마음으로 만든 앱입니다.",
+    meta: "개인 작업 | <strong>디자인 100%</strong>",
+    tools: ["icon-photoshop.png", "icon-figma.png"],
+    image: "./img/pawdiary-img.png",
+    designUrl: "https://www.figma.com/proto/H5mwda9TaMD5Au3HDyKX6W/pawdiary?page-id=0%3A1&node-id=1-286&p=f&viewport=563%2C200%2C0.66&t=Vb2cBRNOyS7zeWmK-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A238&show-proto-sidebar=1",
+    processImage: "./img/pawdiary-process.png",
+  },
+  {
+    title: "5. 상식팡",
     badges: ["앱 디자인"],
     description:
       "상식이 자라면 세상도 자란다.\n상식을 키우는 앱 프로젝트입니다.",
@@ -162,40 +196,6 @@ const sliderData = [
     designUrl:
       "https://www.figma.com/proto/W7huWOILzdJJiea27cL26r/%EC%83%81%EC%8B%9D%ED%8C%A1-%EA%B9%80%EC%88%98%ED%98%84?page-id=0%3A1&node-id=1-7312&p=f&viewport=-139%2C14789%2C0.16&t=SsByHEkKsoFY0gRg-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A7312&show-proto-sidebar=1",
     processImage: "./img/CommonSense-process.png",
-  },
-  {
-    title: "3. Baskin Robbins 31",
-    badges: ["리디자인", "웹 디자인", "테블릿 디자인", "모바일 디자인"],
-    description:
-      "귀여운 일러스트와 상큼한 컬러감으로 브랜드의 아이덴티티는\n유지하며, 개선한 베스킨라빈스 31 리디자인 프로젝트입니다.",
-    meta: "개인 작업 | <strong>디자인 100%</strong>",
-    tools: ["icon-illustrator.png", "icon-figma.png"],
-    image: "./img/bnr-br-main-img.png",
-    designUrl:
-      "https://www.figma.com/proto/DGCGLrCjLxJEkj1lMePruP/%EB%B2%A0%EC%8A%A4%ED%82%A8%EB%9D%BC%EB%B9%88%EC%8A%A4-%EB%A6%AC%EB%94%94%EC%9E%90%EC%9D%B8-%EA%B9%80%EC%88%98%ED%98%84?page-id=0%3A1&node-id=1-28&viewport=-1337%2C-4232%2C0.68&t=TN0blo5tHj5joOx1-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A28&show-proto-sidebar=1",
-    processImage: "./img/br31-process.png",
-  },
-  {
-    title: "4. PawDiary",
-    badges: ["앱 디자인"],
-    description:
-      "모든 반려동물의 삶의 질을 극대화하고, 보호자에게는\n'가장 신뢰받는 동행 파트너'가 되길 바라는 마음으로 만든 앱입니다.",
-    meta: "개인 작업 | <strong>디자인 100%</strong>",
-    tools: ["icon-photoshop.png", "icon-figma.png"],
-    image: "./img/pawdiary-img.png",
-    designUrl: "https://www.figma.com/proto/H5mwda9TaMD5Au3HDyKX6W/pawdiary?page-id=0%3A1&node-id=1-286&p=f&viewport=563%2C200%2C0.66&t=Vb2cBRNOyS7zeWmK-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A238&show-proto-sidebar=1",
-    processImage: "./img/pawdiary-process.png",
-  },
-  {
-    title: "5. Innisfree",
-    badges: ["리디자인", "웹 디자인"],
-    description:
-      "Innisfree 리디자인 \n리디자인 프로젝트입니다. 이거 수정해야함",
-    meta: "개인 작업 | <strong>디자인 100%</strong>",
-    tools: ["icon-figma.png"],
-    image: "./img/innisfree-img.png",
-    designUrl: "https://www.figma.com/proto/r2wA1sp1j6UTT91Oq63ImY/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EA%B9%80%EC%88%98%ED%98%84?page-id=0%3A1&node-id=1-2&p=f&viewport=502%2C417%2C0.49&t=HYVujetwVsqQJylW-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2",
-    processImage: "./img/innisfree-process.png",
   },
   {
     title: "6. Portfolio",
