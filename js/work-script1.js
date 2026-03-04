@@ -144,7 +144,7 @@ const sliderData = [
     badges: ["리디자인", "웹 디자인", "테블릿 디자인", "모바일 디자인"],
     description:
       "170년 이상 이어온 장인정신과 역사적 가치가 담긴 스타인웨이.\n조금 더 깔끔한 디자인으로 웹 리디자인을 하였습니다.",
-    meta: "팀 프로젝트 작업 | <strong>디자인 100%</strong>",
+    meta: "개인 작업 | <strong>디자인 100%</strong>",
     tools: ["icon-photoshop.png", "icon-figma.png"],
     image: "./img/STEINWAY-img.png",
     designUrl:
