@@ -152,7 +152,18 @@ const sliderData = [
     processImage: "./img/steinway-process.png",
   },
   {
-    title: "2. Baskin Robbins 31",
+    title: "2. Innisfree",
+    badges: ["리디자인", "웹 디자인"],
+    description:
+    "Innisfree 리디자인 \n리디자인 프로젝트입니다. 이거 수정해야함",
+    meta: "개인 작업 | <strong>디자인 100%</strong>",
+    tools: ["icon-figma.png"],
+    image: "./img/innisfree-img.png",
+    designUrl: "https://www.figma.com/proto/r2wA1sp1j6UTT91Oq63ImY/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EA%B9%80%EC%88%98%ED%98%84?page-id=0%3A1&node-id=1-2&p=f&viewport=502%2C417%2C0.49&t=HYVujetwVsqQJylW-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2",
+    processImage: "./img/innisfree-process.png",
+  },
+  {
+    title: "3. Baskin Robbins 31",
     badges: ["리디자인", "웹 디자인", "테블릿 디자인", "모바일 디자인"],
     description:
     "귀여운 일러스트와 상큼한 컬러감으로 브랜드의 아이덴티티는\n유지하며, 개선한 베스킨라빈스 31 리디자인 프로젝트입니다.",
@@ -162,17 +173,6 @@ const sliderData = [
     designUrl:
     "https://www.figma.com/proto/DGCGLrCjLxJEkj1lMePruP/%EB%B2%A0%EC%8A%A4%ED%82%A8%EB%9D%BC%EB%B9%88%EC%8A%A4-%EB%A6%AC%EB%94%94%EC%9E%90%EC%9D%B8-%EA%B9%80%EC%88%98%ED%98%84?page-id=0%3A1&node-id=1-28&viewport=-1337%2C-4232%2C0.68&t=TN0blo5tHj5joOx1-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A28&show-proto-sidebar=1",
     processImage: "./img/br31-process.png",
-  },
-  {
-    title: "3. Innisfree",
-    badges: ["리디자인", "웹 디자인"],
-    description:
-    "Innisfree 리디자인 \n리디자인 프로젝트입니다. 이거 수정해야함",
-    meta: "개인 작업 | <strong>디자인 100%</strong>",
-    tools: ["icon-figma.png"],
-    image: "./img/innisfree-img.png",
-    designUrl: "https://www.figma.com/proto/r2wA1sp1j6UTT91Oq63ImY/%EC%9D%B4%EB%8B%88%EC%8A%A4%ED%94%84%EB%A6%AC-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EA%B9%80%EC%88%98%ED%98%84?page-id=0%3A1&node-id=1-2&p=f&viewport=502%2C417%2C0.49&t=HYVujetwVsqQJylW-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2",
-    processImage: "./img/innisfree-process.png",
   },
   {
     title: "4. PawDiary",
