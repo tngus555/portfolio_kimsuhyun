@@ -159,7 +159,7 @@ const sliderData = [
       meta: "개인 작업 | <strong>디자인 100%</strong>",
       tools: ["icon-figma.png"],
       image: "./img/ssintrip-img.png",
-      designUrl: "https://www.figma.com/proto/UVBqhrmYAqo9mYDtE2Z9Vp/%EC%97%AC%ED%96%89%EC%82%AC?page-id=0%3A1&node-id=2-1205&viewport=1191%2C-694%2C0.18&t=OL1seMBxtj7sRSUD-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2%3A1205&show-proto-sidebar=1",
+      designUrl: "https://www.figma.com/proto/UVBqhrmYAqo9mYDtE2Z9Vp/%EC%97%AC%ED%96%89%EC%82%AC?page-id=0%3A1&node-id=2-780&viewport=1191%2C-694%2C0.18&t=eJAupJr2mkiM4GZv-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2%3A780&show-proto-sidebar=1",
       processImage: "./img/ssintrip-process.png",
     },
   {
