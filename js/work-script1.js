@@ -146,7 +146,7 @@ const sliderData = [
       "170년 이상 이어온 장인정신과 역사적 가치가 담긴 스타인웨이.\n조금 더 깔끔한 디자인으로 웹 리디자인을 하였습니다.",
     meta: "개인 작업 | <strong>디자인 100%</strong>",
     tools: ["icon-photoshop.png", "icon-figma.png"],
-    image: "./img/steinway-img.png",
+    image: "./img/steinway-img2.png",
     designUrl:
       "https://www.figma.com/proto/aVQ8y63tvFasKHyTu8TV1a/steinway-%EB%A6%AC%EB%94%94%EC%9E%90%EC%9D%B8-%EA%B9%80%EC%88%98%ED%98%84?page-id=178%3A3605&node-id=178-4871&p=f&viewport=-66%2C187%2C0.06&t=kBo2sRRXSOWR0yKg-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=178%3A5091",
       processImage: "./img/steinway-process.png",
