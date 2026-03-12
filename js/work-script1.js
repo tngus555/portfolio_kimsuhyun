@@ -146,13 +146,24 @@ const sliderData = [
       "170년 이상 이어온 장인정신과 역사적 가치가 담긴 스타인웨이.\n조금 더 깔끔한 디자인으로 웹 리디자인을 하였습니다.",
     meta: "개인 작업 | <strong>디자인 100%</strong>",
     tools: ["icon-photoshop.png", "icon-figma.png"],
-    image: "./img/STEINWAY-img.png",
+    image: "./img/steinway-img.png",
     designUrl:
       "https://www.figma.com/proto/aVQ8y63tvFasKHyTu8TV1a/steinway-%EB%A6%AC%EB%94%94%EC%9E%90%EC%9D%B8-%EA%B9%80%EC%88%98%ED%98%84?page-id=178%3A3605&node-id=178-4871&p=f&viewport=-66%2C187%2C0.06&t=kBo2sRRXSOWR0yKg-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=178%3A5091",
-    processImage: "./img/steinway-process.png",
-  },
+      processImage: "./img/steinway-process.png",
+    },
+    {
+      title: "2. ssintrip",
+      badges: ["웹 디자인", "모바일 디자인"],
+      description:
+        "ssintrip 웹사이트 디자인 프로젝트입니다.\n여행을 떠나는 설렘을 담아 디자인 했습니다.",
+      meta: "개인 작업 | <strong>디자인 100%</strong>",
+      tools: ["icon-figma.png"],
+      image: "./img/ssintrip-img.png",
+      designUrl: "https://www.figma.com/proto/UVBqhrmYAqo9mYDtE2Z9Vp/%EC%97%AC%ED%96%89%EC%82%AC?page-id=0%3A1&node-id=2-1205&viewport=1191%2C-694%2C0.18&t=OL1seMBxtj7sRSUD-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2%3A1205&show-proto-sidebar=1",
+      processImage: "./img/ssintrip-process.png",
+    },
   {
-    title: "2. Innisfree",
+    title: "3. Innisfree",
     badges: ["리디자인", "웹 디자인"],
     description:
     "Innisfree 리디자인 \n리디자인 프로젝트입니다. 이거 수정해야함",
@@ -163,7 +174,7 @@ const sliderData = [
     processImage: "./img/innisfree-process.png",
   },
   {
-    title: "3. Baskin Robbins 31",
+    title: "4. Baskin Robbins 31",
     badges: ["리디자인", "웹 디자인", "테블릿 디자인", "모바일 디자인"],
     description:
     "귀여운 일러스트와 상큼한 컬러감으로 브랜드의 아이덴티티는\n유지하며, 개선한 베스킨라빈스 31 리디자인 프로젝트입니다.",
@@ -175,7 +186,7 @@ const sliderData = [
     processImage: "./img/br31-process.png",
   },
   {
-    title: "4. PawDiary",
+    title: "5. PawDiary",
     badges: ["앱 디자인"],
     description:
     "모든 반려동물의 삶의 질을 극대화하고, 보호자에게는\n'가장 신뢰받는 동행 파트너'가 되길 바라는 마음으로 만든 앱입니다.",
@@ -186,7 +197,7 @@ const sliderData = [
     processImage: "./img/pawdiary-process.png",
   },
   {
-    title: "5. 상식팡",
+    title: "6. 상식팡",
     badges: ["앱 디자인"],
     description:
       "상식이 자라면 세상도 자란다.\n상식을 키우는 앱 프로젝트입니다.",
@@ -196,17 +207,6 @@ const sliderData = [
     designUrl:
       "https://www.figma.com/proto/W7huWOILzdJJiea27cL26r/%EC%83%81%EC%8B%9D%ED%8C%A1-%EA%B9%80%EC%88%98%ED%98%84?page-id=0%3A1&node-id=1-7312&p=f&viewport=-139%2C14789%2C0.16&t=SsByHEkKsoFY0gRg-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A7312&show-proto-sidebar=1",
     processImage: "./img/CommonSense-process.png",
-  },
-  {
-    title: "6. Portfolio",
-    badges: ["포트폴리오"],
-    description:
-      "UI/UX 디자인\n포트폴리오 프로세스입니다.",
-    meta: "개인 작업 | <strong>디자인 100%</strong>",
-    tools: ["icon-photoshop.png", "icon-illustrator.png", "icon-figma.png"],
-    image: "./img/portfolio-img.png",
-    designUrl: "https://tngus555.github.io/portfolio/",
-    processImage: "./img/portfolio-uiux-designer.png",
   },
 ];
 
